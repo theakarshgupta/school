@@ -9,7 +9,7 @@ The School Manager App is a powerful web application designed to enhance the eff
 - **User Authentication**: Secure login system for students, teachers, and admins.
 
 
-## User Authentication
+## 👤User Authentication
 - **Admin**:
   Username: admin@slate.com
   Password: Admin@2025
@@ -48,7 +48,7 @@ Follow these steps to set up the project locally:
    ```bash
    npm start
 
-##📞 Contact
+## 📞 Contact
 
 For queries or suggestions, feel free to connect:
 
